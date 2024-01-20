@@ -9,7 +9,7 @@
 
 ### 🛠 &nbsp;Languages and Tools :
 
-<p>
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" **alt="swift" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" **alt="windows" width="40" height="40"/>&nbsp;
