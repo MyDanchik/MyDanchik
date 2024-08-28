@@ -4,7 +4,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 - 💼 I am working as a system administrator/DevOps.
-- 👨‍🎓 I am studying iOS development.
+- 👨‍🎓 I am junior iOS development.
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
