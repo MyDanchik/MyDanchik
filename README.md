@@ -4,7 +4,8 @@
 
 ### :man_technologist: &nbsp;About Me :
 - 💼 I am working as a system administrator/DevOps.
-- 👨‍🎓 I am junior iOS development.
+- 🧐 I am junior iOS development.
+- 👨‍🎓 I am student Flutter development.
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
